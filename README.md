@@ -45,4 +45,4 @@ Si quieres hablar de algún proyecto, idea o colaboración:
 ---
 
 ⭐ Si algo te sirve, deja una estrella.  
-El código se respeta, primo.
+El código se respeta.
